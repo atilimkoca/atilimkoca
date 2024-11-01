@@ -11,7 +11,7 @@ A passionate Mobile and AI developer and master's degree student from Turkey
 - 📫 How to reach me: atilimkoca@gmail.com
 
 # Connect with me 
-[![My Skills](https://skillicons.dev/icons?i=linkedin,discord)](https://www.linkedin.com/in/omer-atilim-koca/discordapp.com/users/0475)
+[![My Skills](https://skillicons.dev/icons?i=linkedin)](https://www.linkedin.com/in/omer-atilim-koca)
 <!--
 **atilimkoca/atilimkoca** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
